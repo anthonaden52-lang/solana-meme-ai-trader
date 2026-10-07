@@ -1,0 +1,10 @@
+.env
+*.key
+*keypair*.json
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+backups/
+__pycache__/
+.venv/

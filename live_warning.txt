@@ -1,0 +1,16 @@
+LIVE TRADING IS NOT ENABLED IN THIS RESEARCH PROJECT.
+
+Before live execution:
+- verify Jupiter's current API documentation;
+- verify every token mint and destination;
+- enforce max position size;
+- enforce max daily loss;
+- enforce minimum liquidity;
+- enforce maximum slippage;
+- handle failed transactions;
+- handle partial/changed quotes;
+- persist positions across restarts;
+- use a dedicated wallet;
+- never hard-code or paste a private key into source code.
+
+The model is not proof of profitability.
